@@ -20,10 +20,10 @@ html {
   width: device-width;
 }
 .bg{
-  background-image: url('../img/fondo.jpg');
+  /* background-image: url('../img/fondo.jpg'); */
   background-size: cover;
   background-attachment: fixed;
-  /* background-color: #DADADA; */
+  background-color: #d4d4d4; 
 }
 article,
 aside,
